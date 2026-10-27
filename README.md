@@ -44,7 +44,6 @@ CacheProxy ставится между компьютерами локально
 ## Документация
 
 - [Требования к программе (SRS), PDF](docs/SRS_CacheProxy.pdf)
-- [То же в формате Word](docs/SRS_CacheProxy.docx)
 - [UML-диаграммы](docs/diagrams) в форматах PNG и SVG
 
 ## Технологии
